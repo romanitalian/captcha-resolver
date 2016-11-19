@@ -1,2 +1,2 @@
-# captcha-resonver
+# captcha-resolver
 Resolve any captcha
