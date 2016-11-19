@@ -1,0 +1,46 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "f91e89861b2b103d5416e59ce3f03ed3",
+    "content-hash": "55044abd881017f9dd58fca7a4e56526",
+    "packages": [
+        {
+            "name": "romanitalian/canvas-crop",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/romanitalian/canvas-crop.git",
+                "reference": "de06fdfdc886134d89ea9fa914deabcc634bb1b9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/romanitalian/canvas-crop/zipball/de06fdfdc886134d89ea9fa914deabcc634bb1b9",
+                "reference": "de06fdfdc886134d89ea9fa914deabcc634bb1b9",
+                "shasum": ""
+            },
+            "type": "composer",
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "romanitalian",
+                    "email": "romanitalian.net@gmail.com"
+                }
+            ],
+            "description": "Crop image",
+            "time": "2016-11-19 15:48:26"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "romanitalian/canvas-crop": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
