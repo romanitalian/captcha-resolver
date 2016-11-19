@@ -1,0 +1,15 @@
+{
+  "name": "romanitalian/captcha-resolver",
+  "description": "Resolve any captcha",
+  "type": "composer",
+  "authors": [
+    {
+      "name": "romanitalian",
+      "email": "romanitalian.net@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "romanitalian/canvas-crop": "@dev"
+  }
+}
